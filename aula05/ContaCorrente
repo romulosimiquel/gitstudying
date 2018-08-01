@@ -1,0 +1,10 @@
+<?php
+class ContaCorrente {
+	Nome = $n;
+	Numero = $m;
+	Valor = $v;
+
+	function GetDepositar()
+}
+
+?>
