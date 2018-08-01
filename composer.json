@@ -1,8 +1,0 @@
-{
-	"require":{
-		"monolog/monolog":"1.0.*",
-		"mpdf/mpdf":"*",
-		"phpoffice/phpexcel": "^1.8",
-                "baru/correios": "1.0.*"
-	}
-}
